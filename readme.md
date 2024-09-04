@@ -61,13 +61,3 @@ This project is a command-line based medical diagnosis software for diabetes. It
 
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code adheres to the existing style and includes relevant tests.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or issues, please contact:
-
-- **Name**: Prasoon Priya Rawat
-- **Email**: your.email@example.com
